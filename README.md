@@ -18,7 +18,7 @@ We selected datasets based on the following criteria:
 - [Foot Ulcer](https://paperswithcode.com/dataset/dfuc2021)
 
 2. **Endoscopic Images (Polyp)**
-- [CVC-ClinincDB](https://paperswithcode.com/dataset/cvc-clinicdb)   
+- [CVC-ClinicDB](https://paperswithcode.com/dataset/cvc-clinicdb)   
 - [Kvasir-SEG](https://paperswithcode.com/dataset/kvasir-seg)   
 
 3. **Ultrasound Images** 
